@@ -1,7 +1,5 @@
-<div id="header" align="center">
-  <h1>Hi there 👋, I'm Vladimir</h1>
-  <p>Frontend Developer from Saint-Petersburg</p>
-<div>
+### Hi there 👋, I'm Vladimir
+- Frontend Developer from Saint-Petersburg
 
 [![codewars](https://www.codewars.com/users/rsschool_5182f781070635bd/badges/large)](https://www.codewars.com/users/rsschool_5182f781070635bd)
 
