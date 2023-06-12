@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Vladimir
 - Frontend Developer from Saint-Petersburg
 
-[![codewars](https://www.codewars.com/users/rsschool_5182f781070635bd/badges/large)](https://www.codewars.com/users/rsschool_5182f781070635bd)
+[![codewars](https://www.codewars.com/users/rsschool_5182f781070635bd/badges/small)](https://www.codewars.com/users/rsschool_5182f781070635bd)
 
 - 🧑🏻‍💻 I’m currently learning TypeScript/JavaScript
 - 💼 My [CV](https://noisekov.github.io/rsschool-cv/)
