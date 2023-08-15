@@ -4,7 +4,7 @@
 - 💼 My [CV](https://noisekov.github.io/rsschool-cv/)
 - 👀 My [PROJECTS](https://noisekov.github.io/rsschool-cv/#project)
 
-[![](https://leetcard.jacoblin.cool/noisekov?border=0&radius=20)]: #    
+[[![](https://leetcard.jacoblin.cool/noisekov?border=0&radius=20)]: #    
 [![codewars](https://www.codewars.com/users/rsschool_5182f781070635bd/badges/small)](https://www.codewars.com/users/rsschool_5182f781070635bd)
 
 ### Languages and tools
