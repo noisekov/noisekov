@@ -5,7 +5,7 @@
 - 👀 My [PROJECTS](https://noisekov.github.io/rsschool-cv/#project)
 
 ![](https://leetcard.jacoblin.cool/noisekov?border=0&radius=20)    
-[![codewars](https://www.codewars.com/users/rsschool_5182f781070635bd/badges/small)](https://www.codewars.com/users/rsschool_5182f781070635bd)
+[![codewars](https://www.codewars.com/users/rsschool_5182f781070635bd/badges/large)](https://www.codewars.com/users/rsschool_5182f781070635bd)
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
