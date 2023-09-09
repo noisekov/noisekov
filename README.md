@@ -4,7 +4,7 @@
 - 💼 My [CV](https://noisekov.github.io/rsschool-cv/)
 - 👀 My [PROJECTS](https://noisekov.github.io/rsschool-cv/#project)
 
-[![codewars](https://www.codewars.com/users/rsschool_5182f781070635bd/badges/small)](https://www.codewars.com/users/rsschool_5182f781070635bd)
+[![codewars](https://www.codewars.com/users/noisekov/badges/small)](https://www.codewars.com/users/noisekov)
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
