@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Vladimir
 
 - 😑 I’m Frontend Developer from Saint-Petersburg
-- 💼 My [CV](https://noisekov.github.io/rsschool-cv/)
-- 👀 My [PROJECTS](https://noisekov.github.io/rsschool-cv/#project)
+- 👀 My [CV](https://noisekov.github.io/rsschool-cv/)
 
+[[![](https://leetcard.jacoblin.cool/noisekov?border=0&radius=20)]: #
 [![codewars](https://www.codewars.com/users/noisekov/badges/small)](https://www.codewars.com/users/noisekov)
 
 ### Languages and tools
