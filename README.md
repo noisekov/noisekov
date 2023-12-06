@@ -3,8 +3,7 @@
 - 😑 I’m Frontend Developer from Saint-Petersburg
 - 👀 My [CV](https://noisekov.github.io/rsschool-cv/)
 
-[![codewars](https://www.codewars.com/users/noisekov/badges/medium)](https://www.codewars.com/users/noisekov)
-
+[![codewars](https://www.codewars.com/users/noisekov/badges/large)](https://www.codewars.com/users/noisekov)
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
