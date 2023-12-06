@@ -3,8 +3,8 @@
 - 😑 I’m Frontend Developer from Saint-Petersburg
 - 👀 My [CV](https://noisekov.github.io/rsschool-cv/)
 
-[![codewars](https://www.codewars.com/users/noisekov/badges/small)](https://www.codewars.com/users/noisekov)
-![](https://leetcard.jacoblin.cool/noisekov?border=0&radius=20)
+[![codewars](https://www.codewars.com/users/noisekov/badges/medium)](https://www.codewars.com/users/noisekov)
+
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
@@ -23,6 +23,8 @@
 ### I’m currently learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
+
+![](https://leetcard.jacoblin.cool/noisekov?border=0&radius=20)
 
 ### Contacts
 <a href="https://t.me/noisekov"><img src="https://img.shields.io/badge/telegram-blue"></a>
